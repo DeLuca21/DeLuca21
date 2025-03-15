@@ -12,7 +12,7 @@
 ## About Me
 
 - 🌱 I’m focused on **Home Assistant** and **Python**, building and maintaining custom HACS integrations.
-- 🔌 **Featured Project**: [hacs-ynab](https://github.com/DeLuca21/hacs-ynab) – a custom integration that brings YNAB (You Need A Budget) data into Home Assistant.
+- 🔌 **Featured Project**: [ynab-ha](https://github.com/DeLuca21/ynab-ha) – a custom integration that brings YNAB (You Need A Budget) data into Home Assistant.
 - 👯 I’m looking to collaborate on **Home automation, and open-source** projects.
 - 💬 Ask me about **home automation, Docker, and Python**.
 - ⚡ Fun fact: **I love turning everyday tasks into automated scripts**—it’s my way of saving time for the fun stuff!
@@ -47,7 +47,7 @@
 ## 🏆 Achievements & Highlights
 
 - 🥇 **Open-Source Contributions**:  
-  Contributed to [hacs-ynab](https://github.com/DeLuca21/hacs-ynab) and looking to on other community-driven repos.
+  Contributed to [ynab-ha](https://github.com/DeLuca21/ynab-ha) and looking to on other community-driven repos.
 
 ---
 
