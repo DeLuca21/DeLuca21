@@ -1,60 +1,80 @@
 # Hi there, I’m **DeLuca21** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <!-- Explore Projects -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=4A86CF&center=true&vCenter=true&width=750&lines=Building+practical+GNOME+Shell+extensions;Creating+Home+Assistant+integrations;Making+self-hosted+tools+and+automation;Turning+real+workflows+into+usable+projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/DeLuca21?tab=repositories">
-    <img src="https://img.shields.io/badge/-Explore%20my%20Projects-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Explore my projects" />
+    <img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
   </a>
+  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
+  <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ---
 
-## About Me
+## What I Build
 
-- 🌱 I’m focused on **Home Assistant** and **Python**, building and maintaining custom HACS integrations.
-- 🔌 **Featured Project**: [ynab-ha](https://github.com/DeLuca21/ynab-ha) – a custom integration that brings YNAB (You Need A Budget) data into Home Assistant.
-- 👯 I’m looking to collaborate on **Home automation, and open-source** projects.
-- 💬 Ask me about **home automation, Docker, and Python**.
-- ⚡ Fun fact: **I love turning everyday tasks into automated scripts**—it’s my way of saving time for the fun stuff!
+I build practical open-source projects focused on:
 
----
+- **GNOME Shell extensions**
+- **Home Assistant custom integrations**
+- **self-hosted tools**
+- **automation and API-driven utilities**
 
-## 🚀 Skills & Technologies
-
-**Programming & Scripting:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Home Automation:**
-- ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
-- **HACS** (Home Assistant Community Store) – developer and user
-
-**Tools & Platforms:**
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+Most of what I build comes from things I already use and want to improve, extend, or make more useful.
 
 ---
 
-## 📈 GitHub Stats
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [**LiveLockPaper**](https://github.com/DeLuca21/LiveLockPaper) | GNOME Shell extension for video wallpapers and animated lock screens |
+| [**ynab-ha**](https://github.com/DeLuca21/ynab-ha) | Custom Home Assistant integration for YNAB |
+| [**peekrr**](https://github.com/DeLuca21/peekrr) | Python CLI for searching and requesting media through Jellyseerr |
+
+---
+
+## Current Focus
+
+Right now I’m leaning more heavily into **GNOME Shell extension development**.
+
+I’ve also got more extension projects on the way, focused on things like:
+
+- monitoring
+- media
+- authentication
+- practical desktop workflows
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,git,github,githubactions" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GNOME%20Extensions-2f3b52?style=flat-square&logo=gnome&logoColor=white" />
+  <img src="https://img.shields.io/badge/HACS%20Developer-41BDF5?style=flat-square&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Self--hosted%20Projects-5C6370?style=flat-square&logo=serverfault&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeLuca21&show_icons=true&count_private=true&theme=tokyonight" alt="DeLuca21's stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLuca21&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 Achievements & Highlights
-
-- 🥇 **Open-Source Contributions**:  
-  Contributed to [ynab-ha](https://github.com/DeLuca21/ynab-ha) and looking to on other community-driven repos.
-
----
-
-**Thank you for stopping by!**  
-If you like any of my projects, please consider giving them a star ⭐—it means a lot!
-
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <br>“Keep building amazing things!”
+  <b>Thanks for stopping by.</b><br>
+  If you like any of my projects, a star is always appreciated ⭐
 </p>
