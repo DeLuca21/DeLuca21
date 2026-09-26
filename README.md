@@ -35,6 +35,7 @@ Most of what I build comes from things I already use and want to improve, extend
 |---|---|
 | [**LiveLockPaper**](https://github.com/DeLuca21/LiveLockPaper) | GNOME Shell extension for video wallpapers and animated lock screens |
 | [**ynab-ha**](https://github.com/DeLuca21/ynab-ha) | Custom Home Assistant integration for YNAB |
+| [**Bezel**](https://github.com/DeLuca21/Bezel) | A Caelestia-inspired shell for GNOME |
 | [**peekrr**](https://github.com/DeLuca21/peekrr) | Python CLI for searching and requesting media through Jellyseerr |
 
 ---
